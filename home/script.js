@@ -48,8 +48,6 @@ waterControl.addEventListener("click",function(){
         this.href = "http://120.119.67.10:55168"
     }
 })
-    <a href="http://admin:Aa888888@120.119.67.10:4000/mjpg/video.mjpg"><img src="圖片網址" width="200" height="100"></a>
-
     // function change() {
     //     document.body.style.background = document.getElementById("colors").value
     // }

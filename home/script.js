@@ -45,7 +45,7 @@ waterControl.addEventListener("click",function(){
     }
     else{
         alert("登入成功")
-        this.href = "http://120.119.67.10:55200"
+        this.href = "http://120.119.67.10:55168"
     }
 })
 

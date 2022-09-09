@@ -22,8 +22,8 @@ door.addEventListener("click",function(){
         alert("登入成功")
         // document.getElementById("test").innerHTML= '<a href="http://120.119.67.10:5122">鐵捲門</a>'
         // document.getElementById("addr").innerHTML = "鐵捲門"
-        // .scc = '<a href="http://120.119.67.10:5122">鐵捲門</a>'
-        this.href = "http://120.119.67.10:5122"
+        // .scc = '<a href="http://120.119.67.10:55122">鐵捲門</a>'
+        this.href = "http://120.119.67.10:55122"
     }
     // var door = document.getElementById("addr");
     // door.addEventListener("click",function(){

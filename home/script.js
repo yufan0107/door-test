@@ -1,5 +1,6 @@
 var door = document.getElementById("addr");
 var waterControl = document.getElementById("water");
+var wushiwei = document.getElementById("wushiwei");
 door.addEventListener("click",function(){
     var password = 123456;
     var input;

@@ -48,7 +48,7 @@ waterControl.addEventListener("click",function(){
         this.href = "http://120.119.67.10:55168"
     }
 })
-waterControl.addEventListener("click",function(){
+wushiwei.addEventListener("click",function(){
     var password = 0618;
     var input;
     var entry_count = 0;

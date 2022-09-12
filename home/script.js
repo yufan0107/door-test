@@ -49,7 +49,7 @@ waterControl.addEventListener("click",function(){
     }
 })
 wushiwei.addEventListener("click",function(){
-    var password = 0618;
+    var password = 0617;
     var input;
     var entry_count = 0;
     var entry_limit = 3;
